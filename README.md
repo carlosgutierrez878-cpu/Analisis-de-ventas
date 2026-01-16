@@ -1,1 +1,1 @@
-data-analysis, python, power-bi, sales-analysis, kaggle
+README.md – Versión profesional (lista para GitHub)
