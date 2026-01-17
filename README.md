@@ -151,7 +151,7 @@
 
 <footer>
     <p><strong>Carlos Gutiérrez</strong> | Data Analyst Junior</p>
-    <p>📧 Agrega aquí tu email o LinkedIn</p>
+    <p>📧 gutierrez.carlos.1@hotmail.com o LinkedIn</p>
 </footer>
 
 </body>
